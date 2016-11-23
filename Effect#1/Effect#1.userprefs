@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Graphicsdata\shader\Unlit-Normal.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\projectXXX\Assets\test.cs">
     <Files>
-      <File FileName="Assets\Graphicsdata\shader\Unlit-Normal.shader" Line="35" Column="23" />
+      <File FileName="..\..\..\projectXXX\Assets\test.cs" Line="3" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
