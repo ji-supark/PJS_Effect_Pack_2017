@@ -80,6 +80,8 @@
   <ItemGroup>
     <None Include="Assets\3thParty\FxMaker\IGSoft_Resources\ToolResources\EffectShader\FXMaker_Mask Additive Tint.shader" />
     <None Include="Assets\Graphicsdata\shader\Unlit-Normal.shader" />
+    <None Include="Assets\Graphicsdata\shader\Unlit_Custom.shader" />
+    <None Include="Assets\Graphicsdata\shader\water.shader" />
     <None Include="Assets\z_outsideassets\Medieval Bridge\Shaders\Double sided.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
