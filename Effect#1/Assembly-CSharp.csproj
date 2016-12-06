@@ -46,16 +46,31 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\script\rotation.cs" />
+     <Compile Include="Assets\z_outsideassets\XWeaponTrail\Scripts\Spline.cs" />
+     <Compile Include="Assets\z_outsideassets\XWeaponTrail\Scripts\SplineControlPoint.cs" />
+     <Compile Include="Assets\z_outsideassets\XWeaponTrail\Scripts\VertexPool.cs" />
+     <Compile Include="Assets\z_outsideassets\XWeaponTrail\Scripts\XWeaponTrail.cs" />
+     <Compile Include="Assets\z_outsideassets\XWeaponTrail\Scripts\XWeaponTrailDemo.cs" />
      <None Include="Assets\3thParty\FxMaker\IGSoft_Resources\ToolResources\EffectShader\FXMaker_Mask Additive Tint.shader" />
      <None Include="Assets\z_outsideassets\Medieval Bridge\Shaders\Double sided.shader" />
      <None Include="Assets\Graphicsdata\shader\Unlit-Normal.shader" />
+     <None Include="Assets\z_outsideassets\XWeaponTrail\readme_english.txt" />
+     <None Include="Assets\z_outsideassets\XWeaponTrail\Model\readme.txt" />
+     <None Include="Assets\z_outsideassets\XWeaponTrail\readme_chinese.txt" />
      <None Include="Assets\Graphicsdata\shader\water.shader" />
+     <None Include="Assets\z_outsideassets\XWeaponTrail\Shader\xft_displacement_screen.shader" />
      <None Include="Assets\Graphicsdata\shader\Unlit_Custom.shader" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>C:/Program Files/Unity5.2/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity5.2/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity5.2/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files/Unity5.2/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>C:/Program Files/Unity5.2/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
