@@ -1,27 +1,15 @@
-Base path: C:/Program Files/Unity5.2/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-2188
+Base path: C:/Program Files/Unity5.2.1/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-2560
 Cmd: getPlatforms
 Cmd: preprocess
   insize=1105 outsize=380 ok=1
 Cmd: preprocess
-  insize=1807 outsize=1543 ok=1
+  insize=1870 outsize=1568 ok=1
 Cmd: preprocess
   insize=976 outsize=976 ok=1
 Cmd: preprocess
   insize=8894 outsize=4990 ok=1
 Cmd: preprocess
-  insize=2737 outsize=1151 ok=1
+  insize=2861 outsize=1199 ok=1
 Cmd: preprocess
-  insize=996 outsize=1278 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=958 outsize=4101 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=958 outsize=5401 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1001 outsize=4337 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1001 outsize=10813 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=818 outsize=778 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=818 outsize=510 kw= pd= ok=1
+  insize=1037 outsize=1293 ok=1
