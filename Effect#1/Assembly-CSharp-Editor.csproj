@@ -48,18 +48,17 @@
      <Compile Include="Assets\z_outsideassets\XWeaponTrail\Editor\XWeaponTrailEditor.cs" />
      <None Include="Assets\3thParty\FxMaker\IGSoft_Resources\ToolResources\EffectShader\FXMaker_Mask Additive Tint.shader" />
      <None Include="Assets\z_outsideassets\Medieval Bridge\Shaders\Double sided.shader" />
+     <None Include="Assets\Graphicsdata\shader\NewSurfaceShader 1.shader" />
      <None Include="Assets\Graphicsdata\shader\Unlit-Normal.shader" />
      <None Include="Assets\z_outsideassets\XWeaponTrail\readme_english.txt" />
      <None Include="Assets\z_outsideassets\Underworld_Mobile\Origin\Shaders\BackgroundAndCharacters\SuperSimpleSelfIllumination.shader" />
      <None Include="Assets\z_outsideassets\XWeaponTrail\Model\readme.txt" />
      <None Include="Assets\z_outsideassets\XWeaponTrail\readme_chinese.txt" />
      <None Include="Assets\Graphicsdata\shader\Mobile-ColorCutoutaddirive.shader" />
+     <None Include="Assets\Graphicsdata\shader\NewSurfaceShader.shader" />
      <None Include="Assets\Graphicsdata\shader\water.shader" />
      <None Include="Assets\z_outsideassets\XWeaponTrail\Shader\xft_displacement_screen.shader" />
      <None Include="Assets\Graphicsdata\shader\Unlit_Custom.shader" />
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/Program Files/Unity5.2/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Program Files/Unity5.2/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
@@ -74,9 +73,6 @@
  </Reference>
  <Reference Include="UnityEditor.Networking">
  <HintPath>C:/Program Files/Unity5.2/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Program Files/Unity5.2/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity5.2/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>

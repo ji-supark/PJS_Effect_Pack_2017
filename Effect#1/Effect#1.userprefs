@@ -1,11 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Graphicsdata\shader\Mobile-ColorCutoutaddirive.shader">
     <Files>
-      <File FileName="Assets\Graphicsdata\shader\Mobile-ColorCutoutaddirive.shader" Line="31" Column="15" />
-      <File FileName="Assets\Graphicsdata\shader\Unlit_Custom.shader" Line="1" Column="1" />
-      <File FileName="Assets\script\rotation.cs" Line="1" Column="1" />
-      <File FileName="Assets\Graphicsdata\shader\water.shader" Line="1" Column="1" />
+      <File FileName="Assets\Graphicsdata\shader\NewSurfaceShader 1.shader" Line="40" Column="14" />
+      <File FileName="Assets\Graphicsdata\shader\Mobile-ColorCutoutaddirive.shader" Line="33" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
