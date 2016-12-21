@@ -1,3 +1,24 @@
-Base path: C:/Program Files/Unity5.2/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-2096
+Base path: C:/Program Files/Unity5.2.1/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-1436
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=1821 outsize=750 ok=1
+Cmd: preprocess
+  insize=1105 outsize=380 ok=1
+Cmd: preprocess
+  insize=1870 outsize=1568 ok=1
+Cmd: preprocess
+  insize=976 outsize=976 ok=1
+Cmd: preprocess
+  error: 1 plat 18 at (21): Duplicate #pragma surface found, ignoring: #pragma surface surf NoLighting 
+  insize=2610 outsize=2087 ok=1
+Cmd: preprocess
+  insize=8894 outsize=4990 ok=1
+Cmd: preprocess
+  insize=2861 outsize=1199 ok=1
+Cmd: preprocess
+  insize=743 outsize=1742 ok=1
+Cmd: preprocess
+  insize=1037 outsize=1293 ok=1
+Cmd: preprocess
+  insize=899 outsize=381 ok=1
