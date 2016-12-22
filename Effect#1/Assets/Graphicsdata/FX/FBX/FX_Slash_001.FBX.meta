@@ -6,10 +6,19 @@ ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
+    100002: FX_Slash_001
+    100004: FX_Slash_001_2
     400000: //RootNode
+    400002: FX_Slash_001
+    400004: FX_Slash_001_2
     2300000: //RootNode
+    2300002: FX_Slash_001
+    2300004: FX_Slash_001_2
     3300000: //RootNode
+    3300002: FX_Slash_001
+    3300004: FX_Slash_001_2
     4300000: FX_Slash_001
+    4300002: FX_Slash_001_2
   materials:
     importMaterials: 1
     materialName: 0
