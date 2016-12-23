@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Graphicsdata/BG/zone/FX_zone.unity
+  isLoaded: 1
+  isActive: 1

@@ -45,50 +45,16 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Underworld_Mobile\Origin\Scripts\Fx\MobileBloom.js" />
-     <Compile Include="Assets\Underworld_Mobile\Origin\Scripts\ShowFps.js" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\Fx\ParticleBlend.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\BackgroundAndCharacters\ReflectiveBackgroundPlanar.shader" />
+     <Compile Include="Assets\z_outsideassets\weapontrail\SM_rotateThis.js" />
      <None Include="Assets\3thParty\FxMaker\IGSoft_Resources\ToolResources\EffectShader\FXMaker_Mask Additive Tint.shader" />
      <None Include="Assets\z_outsideassets\Medieval Bridge\Shaders\Double sided.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\BackgroundAndCharacters\PlanarRealtimeReflection.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\Fx\LaserScope.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\Fx\Additive.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\Fx\ParticleAdditiveBlend.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\Fx\Cursor.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\Fx\ParticleMultiply.shader" />
+     <None Include="Assets\Graphicsdata\shader\NewSurfaceShader 1.shader" />
      <None Include="Assets\Graphicsdata\shader\Unlit-Normal.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\BackgroundAndCharacters\Fallback.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\Fx\Blend.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\Fx\InterlacePatternAdditive.shader" />
-     <None Include="Assets\Underworld_Mobile\!info.txt" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\BackgroundAndCharacters\RealtimeReflectionReplacement.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Scripts\MobileBloom.shader" />
-     <None Include="Assets\z_outsideassets\XWeaponTrail\readme_english.txt" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\Fx\Rain.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\BackgroundAndCharacters\AlphaCutoutCheapFallback.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\BackgroundAndCharacters\SuperSimpleSelfIllumination.shader" />
-     <None Include="Assets\Underworld_Mobile\Modules\info_modules.txt" />
-     <None Include="Assets\z_outsideassets\XWeaponTrail\Model\readme.txt" />
-     <None Include="Assets\z_outsideassets\XWeaponTrail\readme_chinese.txt" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\BackgroundAndCharacters\AngryInclude.cginc" />
+     <None Include="Assets\z_outsideassets\Underworld_Mobile\Origin\Shaders\BackgroundAndCharacters\SuperSimpleSelfIllumination.shader" />
      <None Include="Assets\Graphicsdata\shader\Mobile-ColorCutoutaddirive.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\Fx\RainSplash.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\BackgroundAndCharacters\RealtimeReflectionInWaterFlow.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\Fx\InterlacePatternBlend.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\Fx\ParticleAdditive.shader" />
+     <None Include="Assets\Graphicsdata\shader\NewSurfaceShader.shader" />
      <None Include="Assets\Graphicsdata\shader\water.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\Fx\Multiply.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\Fx\ScreenRefract.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\BackgroundAndCharacters\EnemySelfIlluminationReflective.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\BackgroundAndCharacters\ReflectiveBackgroundArbitrary.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\BackgroundAndCharacters\ReflectiveBackgroundSelfIllumination.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\Fx\AdditiveBlend.shader" />
-     <None Include="Assets\Underworld_Mobile\Demo\!demo_info.txt" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\BackgroundAndCharacters\CharacterSelfIlluminationReflective.shader" />
-     <None Include="Assets\z_outsideassets\XWeaponTrail\Shader\xft_displacement_screen.shader" />
      <None Include="Assets\Graphicsdata\shader\Unlit_Custom.shader" />
-     <None Include="Assets\Underworld_Mobile\Origin\Shaders\Fx\HeightFogBeforeTransparent.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity5.2/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
