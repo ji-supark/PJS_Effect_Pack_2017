@@ -57,6 +57,7 @@
      <None Include="Assets\Graphicsdata\shader\NewSurfaceShader 1.shader" />
      <None Include="Assets\Graphicsdata\shader\Unlit-Normal.shader" />
      <None Include="Assets\z_outsideassets\Underworld_Mobile\Origin\Shaders\BackgroundAndCharacters\SuperSimpleSelfIllumination.shader" />
+     <None Include="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
      <None Include="Assets\Graphicsdata\shader\Mobile-ColorCutoutaddirive.shader" />
      <None Include="Assets\Graphicsdata\shader\NewSurfaceShader.shader" />
      <None Include="Assets\Graphicsdata\shader\water.shader" />
@@ -79,6 +80,10 @@
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity5.2/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
  </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{FF6DE00E-73A5-A0CC-0979-8DE701422E8B}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
