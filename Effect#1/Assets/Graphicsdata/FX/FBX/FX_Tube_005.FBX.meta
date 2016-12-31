@@ -6,10 +6,22 @@ ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
+    100002: FX_Tube_005
+    100004: Object001
     400000: //RootNode
+    400002: FX_Tube_005
+    400004: Object001
     2300000: //RootNode
+    2300002: FX_Tube_005
+    2300004: Object001
     3300000: //RootNode
+    3300002: FX_Tube_005
+    3300004: Object001
     4300000: fx_Tube_005
+    4300002: fx_tube_005
+    4300004: FX_tube_005
+    4300006: FX_Tube_005
+    4300008: Object001
   materials:
     importMaterials: 1
     materialName: 0
