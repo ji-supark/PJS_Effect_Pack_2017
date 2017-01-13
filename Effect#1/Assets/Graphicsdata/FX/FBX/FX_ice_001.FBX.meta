@@ -22,11 +22,13 @@ ModelImporter:
     2300004: fx_ice_001_emit1
     2300006: fx_ice_001_plane1
     2300008: fx_ice_001_plane2
+    2300010: //RootNode
     3300000: fx_ice_001_1
     3300002: fx_ice_001_2
     3300004: fx_ice_001_emit1
     3300006: fx_ice_001_plane1
     3300008: fx_ice_001_plane2
+    3300010: //RootNode
     4300000: fx_ice_001_1
     4300002: fx_ice_001_2
     4300004: fx_ice_001_emit1

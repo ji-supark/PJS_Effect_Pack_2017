@@ -52,17 +52,17 @@
     <Reference Include="UnityEngine">
       <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.Advertisements">
-      <HintPath>Library\UnityAssemblies\UnityEngine.Advertisements.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Networking">
       <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.Analytics">
-      <HintPath>Library\UnityAssemblies\UnityEngine.Analytics.dll</HintPath>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
@@ -75,14 +75,33 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Effect#1.Plugins.csproj">
+      <Project>{467E4D71-9D62-9D39-08F3-2891A5303B6F}</Project>
+      <Name>Effect#1.Plugins</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\script\RandAppear.cs" />
+    <Compile Include="Assets\script\ScrollingUVs.cs" />
     <Compile Include="Assets\script\rotation.cs" />
+    <Compile Include="Assets\z_outsideassets\MeleeWeaponTrail\Example\Scripts\LookAtTarget.cs" />
+    <Compile Include="Assets\z_outsideassets\MeleeWeaponTrail\Example\Scripts\MouseMove.cs" />
+    <Compile Include="Assets\z_outsideassets\MeleeWeaponTrail\Example\Scripts\SwooshTest.cs" />
+    <Compile Include="Assets\z_outsideassets\MeleeWeaponTrail\Scripts\Interpolate.cs" />
+    <Compile Include="Assets\z_outsideassets\MeleeWeaponTrail\Scripts\MeleeWeaponTrail.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\3thParty\FxMaker\IGSoft_Resources\ToolResources\EffectShader\FXMaker_Mask Additive Tint.shader" />
+    <None Include="Assets\Graphicsdata\shader\Mobile-ColorCutoutaddirive.shader" />
+    <None Include="Assets\Graphicsdata\shader\NewSurfaceShader 1.shader" />
+    <None Include="Assets\Graphicsdata\shader\NewSurfaceShader.shader" />
     <None Include="Assets\Graphicsdata\shader\Unlit-Normal.shader" />
     <None Include="Assets\Graphicsdata\shader\Unlit_Custom.shader" />
     <None Include="Assets\Graphicsdata\shader\water.shader" />
+    <None Include="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
     <None Include="Assets\z_outsideassets\Medieval Bridge\Shaders\Double sided.shader" />
+    <None Include="Assets\z_outsideassets\MeleeWeaponTrail\README.txt" />
+    <None Include="Assets\z_outsideassets\Underworld_Mobile\Origin\Shaders\BackgroundAndCharacters\SuperSimpleSelfIllumination.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
