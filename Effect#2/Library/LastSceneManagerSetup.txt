@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/z_outsideassets/Medieval Bridge/background_01.unity
+- path: Assets/Graphicsdata/scene/sample.unity
   isLoaded: 1
   isActive: 1
