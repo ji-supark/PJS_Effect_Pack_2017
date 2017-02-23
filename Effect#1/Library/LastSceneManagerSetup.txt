@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/FX_Levelup_02.unity
+- path: Assets/scenes/FX_Sword_Skill_01.unity
   isLoaded: 1
   isActive: 1
