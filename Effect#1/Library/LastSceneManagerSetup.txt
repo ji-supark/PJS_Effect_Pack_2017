@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/FX_CleoBuff_e1.unity
+- path: Assets/scenes/FX_ogre_Skill_01.unity
   isLoaded: 1
   isActive: 1
