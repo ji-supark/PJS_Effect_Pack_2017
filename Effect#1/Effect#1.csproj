@@ -64,6 +64,12 @@
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Effect#1.Plugins.csproj">
@@ -74,6 +80,7 @@
   <ItemGroup>
     <Compile Include="Assets\script\RandAppear.cs" />
     <Compile Include="Assets\script\ScrollingUVs.cs" />
+    <Compile Include="Assets\script\Wavegen.cs" />
     <Compile Include="Assets\script\rotation.cs" />
     <Compile Include="Assets\z_outsideassets\MeleeWeaponTrail\Example\Scripts\LookAtTarget.cs" />
     <Compile Include="Assets\z_outsideassets\MeleeWeaponTrail\Example\Scripts\MouseMove.cs" />
