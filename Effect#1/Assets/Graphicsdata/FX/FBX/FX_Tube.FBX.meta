@@ -12,6 +12,7 @@ ModelImporter:
     100008: fx_Tube_04
     100010: FX_Tube_04
     100012: FX_Tube_05
+    100014: FX_Tube_06
     400000: //RootNode
     400002: FX_Tube_01
     400004: FX_Tube_02
@@ -19,6 +20,7 @@ ModelImporter:
     400008: fx_Tube_04
     400010: FX_Tube_04
     400012: FX_Tube_05
+    400014: FX_Tube_06
     2300000: //RootNode
     2300002: FX_Tube_01
     2300004: FX_Tube_02
@@ -26,6 +28,7 @@ ModelImporter:
     2300008: fx_Tube_04
     2300010: FX_Tube_04
     2300012: FX_Tube_05
+    2300014: FX_Tube_06
     3300000: //RootNode
     3300002: FX_Tube_01
     3300004: FX_Tube_02
@@ -33,12 +36,14 @@ ModelImporter:
     3300008: fx_Tube_04
     3300010: FX_Tube_04
     3300012: FX_Tube_05
+    3300014: FX_Tube_06
     4300000: FX_Tube_01
     4300002: FX_Tube_02
     4300004: FX_Tube_03
     4300006: fx_Tube_04
     4300008: FX_Tube_04
     4300010: FX_Tube_05
+    4300012: FX_Tube_06
   materials:
     importMaterials: 1
     materialName: 0
