@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 022488dc5cc350b48b98e27520eeac94
-timeCreated: 1488715734
+timeCreated: 1489860757
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -28,6 +28,7 @@ TextureImporter:
     21300042: UI_title_intro_add_f_21
     21300044: UI_title_intro_add_f_22
     21300046: UI_title_intro_add_f_23
+    21300048: UI_title_intro_add_a
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -382,6 +383,19 @@ TextureImporter:
         y: 640
         width: 256
         height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_title_intro_add_a
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 573
+        width: 105
+        height: 57
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
