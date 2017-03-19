@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 022488dc5cc350b48b98e27520eeac94
-timeCreated: 1489860757
+timeCreated: 1489913474
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -29,6 +29,7 @@ TextureImporter:
     21300044: UI_title_intro_add_f_22
     21300046: UI_title_intro_add_f_23
     21300048: UI_title_intro_add_a
+    21300050: UI_title_intro_add_Glow
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -396,6 +397,19 @@ TextureImporter:
         y: 573
         width: 105
         height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_title_intro_add_Glow
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 40
+        width: 886
+        height: 587
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
