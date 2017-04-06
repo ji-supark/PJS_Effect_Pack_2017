@@ -9,21 +9,31 @@ ModelImporter:
     100002: eff_line_004
     100004: eff_line_005
     100006: eff_line_006
+    100008: eff_line_007
+    100010: eff_line_008
     400000: //RootNode
     400002: eff_line_004
     400004: eff_line_005
     400006: eff_line_006
+    400008: eff_line_007
+    400010: eff_line_008
     2300000: //RootNode
     2300002: eff_line_004
     2300004: eff_line_005
     2300006: eff_line_006
+    2300008: eff_line_007
+    2300010: eff_line_008
     3300000: //RootNode
     3300002: eff_line_004
     3300004: eff_line_005
     3300006: eff_line_006
+    3300008: eff_line_007
+    3300010: eff_line_008
     4300000: eff_line_004
     4300002: eff_line_005
     4300004: eff_line_006
+    4300006: eff_line_007
+    4300008: eff_line_008
   materials:
     importMaterials: 1
     materialName: 0
