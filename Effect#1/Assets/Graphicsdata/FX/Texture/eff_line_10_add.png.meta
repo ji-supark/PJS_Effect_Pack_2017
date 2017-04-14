@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: ea8d225fdbfab7046be49c23fed09a3d
-timeCreated: 1487398289
+guid: 0917fb72663a3294a879bdcda7db9129
+timeCreated: 1492180177
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}
@@ -26,8 +26,8 @@ TextureImporter:
   cubemapConvolutionSteps: 7
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
-  textureFormat: 45
-  maxTextureSize: 128
+  textureFormat: -1
+  maxTextureSize: 2048
   textureSettings:
     filterMode: -1
     aniso: -1
@@ -47,7 +47,12 @@ TextureImporter:
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
   textureType: 5
-  buildTargetSettings: []
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 34
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []
