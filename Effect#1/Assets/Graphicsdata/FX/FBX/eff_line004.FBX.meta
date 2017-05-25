@@ -6,10 +6,19 @@ ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
+    100002: eff_line_004
+    100004: eff_line_004_2
     400000: //RootNode
+    400002: eff_line_004
+    400004: eff_line_004_2
     2300000: //RootNode
+    2300002: eff_line_004
+    2300004: eff_line_004_2
     3300000: //RootNode
+    3300002: eff_line_004
+    3300004: eff_line_004_2
     4300000: eff_line_004
+    4300002: eff_line_004_2
   materials:
     importMaterials: 1
     materialName: 0
