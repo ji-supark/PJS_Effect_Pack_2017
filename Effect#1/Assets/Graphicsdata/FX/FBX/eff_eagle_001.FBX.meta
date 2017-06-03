@@ -8,9 +8,25 @@ ModelImporter:
     100000: //RootNode
     100002: eff_eagle_001
     100004: eff_eagle_002
+    100006: head
+    100008: l_wings_01
+    100010: l_wings_02
+    100012: r_wings_01
+    100014: r_wings_01 1
+    100016: spine
+    100018: tail1
+    100020: tail2
     400000: //RootNode
     400002: eff_eagle_001
     400004: eff_eagle_002
+    400006: head
+    400008: l_wings_01
+    400010: l_wings_02
+    400012: r_wings_01
+    400014: r_wings_01 1
+    400016: spine
+    400018: tail1
+    400020: tail2
     2300000: //RootNode
     2300002: eff_eagle_001
     2300004: eff_eagle_002
@@ -19,6 +35,9 @@ ModelImporter:
     3300004: eff_eagle_002
     4300000: eff_eagle_001
     4300002: eff_eagle_002
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: eff_eagle_001
   materials:
     importMaterials: 0
     materialName: 0
@@ -39,7 +58,55 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 7
+      lastFrame: 37
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: eff_eagle_001
+        weight: 1
+      - path: head
+        weight: 1
+      - path: head/l_wings_01
+        weight: 1
+      - path: head/l_wings_01/l_wings_02
+        weight: 1
+      - path: head/r_wings_01
+        weight: 1
+      - path: head/r_wings_01/r_wings_01 1
+        weight: 1
+      - path: head/spine
+        weight: 1
+      - path: head/spine/tail1
+        weight: 1
+      - path: head/spine/tail1/tail2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -77,7 +144,7 @@ ModelImporter:
     rootMotionBoneName: 
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 1
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
