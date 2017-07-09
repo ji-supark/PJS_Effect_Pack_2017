@@ -17,6 +17,7 @@ public class ScrollingUVs : MonoBehaviour
         if (GetComponent<Renderer>().enabled)
         {
             GetComponent<Renderer>().materials[materialIndex].SetTextureOffset(textureName, uvOffset);
+
                }
     }
 }

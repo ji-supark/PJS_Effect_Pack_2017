@@ -1,7 +1,7 @@
 fileFormatVersion: 2
-guid: 31ed7924fb9af224ca6829f72abacec6
-timeCreated: 1471502185
-licenseType: Pro
+guid: 0dfd662a412866a41b83cd6ef1326e31
+timeCreated: 1499358282
+licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -9,10 +9,10 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Cylinder037
-    4300002: fx_tornado_001
+    4300000: eff_spark_rotate_01
+    4300002: eff_spark_e1
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
   animations:
@@ -53,7 +53,7 @@ ModelImporter:
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
-    tangentImportMode: 4
+    tangentImportMode: 3
   importAnimation: 1
   copyAvatar: 0
   humanDescription:

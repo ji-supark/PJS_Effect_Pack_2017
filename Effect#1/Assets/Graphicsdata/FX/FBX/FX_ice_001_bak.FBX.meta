@@ -1,18 +1,44 @@
 fileFormatVersion: 2
-guid: 31ed7924fb9af224ca6829f72abacec6
-timeCreated: 1471502185
-licenseType: Pro
+guid: ad59529c198b1e045b56770bda2e60bc
+timeCreated: 1498489151
+licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Cylinder037
-    4300002: fx_tornado_001
+    100000: fx_ice_001_1
+    100002: fx_ice_001_2
+    100004: //RootNode
+    100006: fx_ice_001_emit1
+    100008: fx_ice_001_plane1
+    100010: fx_ice_001_plane2
+    100012: fx_ice_plane3
+    400000: fx_ice_001_1
+    400002: fx_ice_001_2
+    400004: //RootNode
+    400006: fx_ice_001_emit1
+    400008: fx_ice_001_plane1
+    400010: fx_ice_001_plane2
+    400012: fx_ice_plane3
+    2300000: fx_ice_001_1
+    2300002: fx_ice_001_2
+    2300004: fx_ice_001_emit1
+    2300006: fx_ice_001_plane1
+    2300008: fx_ice_001_plane2
+    2300010: fx_ice_plane3
+    3300000: fx_ice_001_1
+    3300002: fx_ice_001_2
+    3300004: fx_ice_001_emit1
+    3300006: fx_ice_001_plane1
+    3300008: fx_ice_001_plane2
+    3300010: fx_ice_plane3
+    4300000: fx_ice_001_emit1
+    4300002: fx_ice_001_plane1
+    4300004: fx_ice_001_plane2
+    4300006: fx_ice_001_1
+    4300008: fx_ice_plane3
+    4300010: fx_ice_001_2
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
   animations:
@@ -53,7 +79,7 @@ ModelImporter:
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
-    tangentImportMode: 4
+    tangentImportMode: 3
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
