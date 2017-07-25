@@ -14,6 +14,7 @@
 		LOD 200
 		blend one one
 		zwrite on
+		cull off
 
 		CGPROGRAM
 #pragma surface surf Lambert alphatest:_Cutoff
